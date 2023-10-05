@@ -24,6 +24,8 @@
           },
           "configurations": {
             "production": {
+              "baseHref": "https://github.com/malufell/angular-getting-started",
+              "outputPath": "docs",
               "budgets": [
                 {
                   "type": "initial",
