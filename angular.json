@@ -12,7 +12,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "baseHref": "https://malufell.github.io",
+            "baseHref": "https://malufell.github.io/angular-getting-started/",
             "outputPath": "docs",
             "index": "src/index.html",
             "main": "src/main.ts",
@@ -24,7 +24,7 @@
           },
           "configurations": {
             "production": {
-              "baseHref": "https://malufell.github.io",
+              "baseHref": "https://malufell.github.io/angular-getting-started/",
               "outputPath": "docs",
               "budgets": [
                 {
